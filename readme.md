@@ -49,6 +49,8 @@ Welcome to HomeSphere, a full-fledged Real Estate Management System developed to
 - `Data Population`: Scripts for populating the database with sample data.
 - `Relationship Management`: Scripts for defining relationships between data entities.
 
+## ER Diagram
+![Alt Text](https://github.com/amankr2076/Real-Estate-Management-Project/blob/5c78000c2b8548e381ae80b1d2104b9b9e842613/images/ER%20diagram.jpg)
 ## Getting Started
 
 ### Prerequisites
