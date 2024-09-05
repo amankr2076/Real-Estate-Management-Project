@@ -3,6 +3,9 @@
 ## Introduction
 Welcome to HomeSphere, a full-fledged Real Estate Management System developed to simplify and facilitate the property management processes. Designed for real estate offices, agents, buyers, and administrators, HomeSphere allows for effective management of property listings and seamless coordination between various stakeholders in the real estate market.
 
+## HomePage
+![Alt Text](https://github.com/amankr2076/Real-Estate-Management-Project/blob/743be4ed2ee193fb8a0878937e6e78d5c623d76f/images/homepage.png)
+
 ## Features
 
 ### Property Search and Filtering
